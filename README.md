@@ -12,3 +12,6 @@ Microsoft Excel for data visualization
 Conditional formatting and gauge charts for performance metrics
 Line chart, treemap, and map visualizations for clarity in data representation
 This dashboard demonstrates the power of Excel in creating meaningful, interactive reports without needing complex tools
+
+![image](https://github.com/user-attachments/assets/489925ed-2fef-4979-9623-1ff21f4e1040)
+
